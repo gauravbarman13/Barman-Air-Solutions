@@ -1,0 +1,187 @@
+/* body */
+body{
+  /* background-color: black; */
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+}
+
+
+/* navbar */
+#title{
+  background-color: black
+}
+
+.navbar{
+  padding: 2% 5%;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.nav-link{
+  margin: auto 0.5rem;
+}
+
+/* upper-container */
+#upper-container{
+  text-align: center;
+  background-color: black;
+}
+
+.h1-position{
+  position: relative;
+
+}
+.hvac-head{
+  font-family: 'Merriweather', serif;
+  color: white;
+  margin: 9rem 0 0 0;
+}
+.slogan{
+  font-family: 'Sriracha', cursive;
+  color: white;
+  margin-top: 2rem;
+  font-size: 1rem;
+}
+
+.logo-image{
+  width: 50%;
+  position: relative;
+  right: 20px;
+}
+
+.upper-content{
+  background-image: url("images/backg.jpg");
+}
+
+.row{
+  margin: auto 0;
+}
+/* Feature */
+
+#features{
+  background-color: white;
+}
+
+.workdone{
+  padding: 6rem 6rem;
+}
+
+.featureItem{
+  color: black;
+}
+
+.icon-image{
+  margin: 30px 0;
+}
+
+.icon-image:hover{
+  color: grey;
+}
+
+/* part2 */
+#slideshow{
+  background-color: black
+}
+
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+
+.dealsin{
+  color: white;
+  text-align: left;
+  padding: 3rem 0 0 6rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.slide-img{
+  /* border-radius: 50%; */
+  width: 18rem;
+}
+
+.carousel-inner{
+  padding: 5% 10%;
+}
+
+/* contact us */
+.contact-head{
+  color: black;
+  text-align: left;
+  padding: 3rem 0 0 6rem;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.contact-form{
+  padding: 4rem;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 3;
+  text-align: center;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+/* footer */
+
+#footer{
+  background-color: grey;
+}
+
+.social-icon{
+  margin: 10px 20px;
+}
+
+.footer-div{
+  padding: 1.5rem;
+  background-color: grey;
+}
+.copyright{
+  margin: 1rem;
+  font-size: 12px;
+}
+/* -------------------------------------about----------------------------------------- */
+
+.about-content-1{
+  margin: 5rem 20rem;
+  text-align: left;
+  line-height: 2;
+  border-style: double;
+  box-shadow: 20px 20px 10px grey;
+}
+
+.about-content-2{
+  margin: 5rem 20rem;
+  text-align: left;
+  line-height: 2;
+  border-style: double;
+  box-shadow: 20px 20px 10px grey;
+}
+
+.img-about1{
+  width: 25%;
+  float: left;
+  margin-right: 2rem;
+}
+
+.img-about2{
+  width: 20%;
+  float: right;
+  margin-left: 2rem;
+}
+
+.content1{
+  margin: 1.5rem;
+}
+
+/* -------------------------------------------get a quote----------------------------  */
+
+.google{
+  margin-top: 4rem;
+}
